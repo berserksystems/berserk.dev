@@ -8,3 +8,12 @@ https://lukebentleyfox.net/posts/building-this-blog/
 
 # 2023-02-26
 Apparently NixOps is dying. Above won't be the correct approach in this case.
+
+Use of pollen language as demonstrated here is interesting:
+https://github.com/roman-kashitsyn/mmapped.blog
+
+We don't want to use netlify to deploy, but aside from that:
+* The repo layout is nice, just what's needed.
+* The end result (the site itself) is very beautiful and achievable. The css
+file is 750 lines long but there isn't much in the way of design aside from that.
+The margin notes are lovely.
